@@ -1,0 +1,2 @@
+# A Physical Modeling Repo
+This repo contains solutions and examples from "A Student's Guide to Python for Physical Modeling" by Dr. Philip Nelson. I strongly recommend this text to both programmers interested in physics and physics students interested in programming respectively. It provides an excellent bridge between the two disciplines and effectively measured introduction to computational physics.
